@@ -1,10 +1,10 @@
-#Project Name<br>
+# Project Name<br>
 Sprint 0 - GitHub
 
-##Getting Started<br>
+## Getting Started<br>
 Team part of Sprint 0
 
-##Authors<br>
+## Authors<br>
 Sherif Elattar 37-2694<br>
 Ahmed Ayman 37-7768<br>
 Nourhan Elfransawy 37-9784<br>
