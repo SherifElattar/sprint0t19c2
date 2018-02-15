@@ -5,6 +5,7 @@
 Team part of Sprint 0. Contains a readme file, and a txt file to resolve conflicts. As well as a project and a milestone
 
 ## Authors<br>
+
 **Sherif Elattar** *37-2694*<br>
 **Ahmed Ayman** *37-7768*<br>
 **Nourhan Elfransawy** *37-9784*<br>
@@ -12,4 +13,8 @@ Team part of Sprint 0. Contains a readme file, and a txt file to resolve conflic
 **Mayar Osama** *37-2492*<br>
 
 ## About<br>
-I am passionate about 3 things. CS, Football and Music  :musical_note::soccer:
+I am passionate about 3 things. CS, Football and Music :musical_note::soccer:<br>
+I Love travelling and FOOOD :airplane::fork_and_knife:<br>
+I cannot live without watching movies!!! :tv::tv:<br>
+I am a bookworm, books are literally my life...:books::books:<br>
+Sports Sports SPORTS. I love anything that has to do with sports! :basketball::tennis:
