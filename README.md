@@ -1,12 +1,12 @@
-#Project Name
+#Project Name<br>
 Sprint 0 - GitHub
 
-##Getting Started
+##Getting Started<br>
 Team part of Sprint 0
 
-##Authors
-Sherif Elattar 37-2694
-Ahmed Ayman 37-7768
-Nourhan Elfransawy 37-9784
-Beshoy Raafat 37-15522
-Mayar Osama 37-2492
+##Authors<br>
+Sherif Elattar 37-2694<br>
+Ahmed Ayman 37-7768<br>
+Nourhan Elfransawy 37-9784<br>
+Beshoy Raafat 37-15522<br>
+Mayar Osama 37-2492<br>
