@@ -17,4 +17,5 @@ I am passionate about 3 things. CS, Football and Music :musical_note::soccer:<br
 I Love travelling and FOOOD :airplane::fork_and_knife:<br>
 I cannot live without watching movies!!! :tv::tv:<br>
 I am a bookworm, books are literally my life...:books::books:<br>
-Sports Sports SPORTS. I love anything that has to do with sports! :basketball::tennis:
+Sports Sports SPORTS. I love anything that has to do with sports! :basketball::tennis:<br>
+The purpose for this repo is to start working together on a **git** project in order to get more familiar with the concepts of **git**
